@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Data Young Campus 2022
 
 <!--
 **tnqkrthsus2/tnqkrthsus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
