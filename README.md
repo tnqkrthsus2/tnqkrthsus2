@@ -1,6 +1,14 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Posco AI & Big Data Academy 
+## 🌱 I’m currently learning Posco AI & Big Data Academy 
 
+## :office: Career
+* * *
+### 2021/07 ~ 2021/12 | 한국지능정보사회진흥원 공공데이터포털 인턴
+### 2022/07 ~ 2022/09 | 2022 데이터 청년 캠퍼스
+### 2022/10 ~ 포스코 AI & BigData 아카데미 20기
+## :sparkles: Prize
+* * *
+### [한국지능정보사회진흥원] 공공데이터 청년인턴 해커톤 대회 서비스 개발 분야 입상 (2021/12)
 <!--
 **tnqkrthsus2/tnqkrthsus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
